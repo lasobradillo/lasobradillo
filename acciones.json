@@ -1,0 +1,178 @@
+[
+{
+"identificación" : 1 ,
+"acción" : " Documento Plan de prevención de riesgos laborales ",
+"idPadre" : 1
+},
+{
+"identificación" : 2 ,
+"acción" : " Documento de la política de prevención de riesgos laborales ",
+"idPadre" : 1
+},
+{
+"identificación" : 3 ,
+"acción" : " Documento de consulta a los representantes de los trabajadores ",
+"idPadre" : 1
+},
+{
+"identificación" : 4 ,
+"acción" : " Documento con la definición del modelo de organización de la P.R.L. ",
+"idPadre" : 2
+},
+{
+"identificación" : 5 ,
+"acción" : " Información interna ",
+"idPadre" : 2
+},
+{
+"identificación" : 6 ,
+"acción" : " Designación formal de los trabajadores vinculados con el desarrollo y el modelo de organización de la P.R.L. ",
+"idPadre" : 2
+},
+{
+"identificación" : 7 ,
+"acción" : " ¿Hay nombrado delegado de prevención? ",
+"idPadre" : 3
+},
+{
+"identificación" : 8 ,
+"acción" : " ¿Existen representantes de los trabajadores? ",
+"idPadre" : 3
+},
+{
+"identificación" : 9 ,
+"acción" : " Acta constitución del Comité de Seguridad y Salud ",
+"idPadre" : 3
+},
+{
+"identificación" : 10 ,
+"acción" : " Actas de reuniones ",
+"idPadre" : 3
+},
+{
+"identificación" : 11 ,
+"acción" : " Formación de nivel básico para los delegados de prevención ",
+"idPadre" : 4
+},
+{
+"identificación" : 12 ,
+"acción" : " Formación miembros del Comité de Seguridad y Salud ",
+"idPadre" : 4
+},
+{
+"identificación" : 13 ,
+"acción" : " Documentos de evaluaciones de riesgos ",
+"idPadre" : 5
+},
+{
+"identificación" : 14 ,
+"acción" : " Metodología de evaluación de riesgos (comprobar si existen informes anteriores de evaluación de riesgos) ",
+"idPadre" : 5
+},
+{
+"identificación" : 15 ,
+"acción" : " Documento de la planificación de la actividad preventiva ",
+"idPadre" : 6
+},
+{
+"identificación" : 16 ,
+"acción" : " Consulta a los representantes de los trabajadores ",
+"idPadre" : 6
+},
+{
+"identificación" : 17 ,
+"acción" : " Formación de los trabajadores en riesgos genéricos ",
+"idPadre" : 7
+},
+{
+"identificación" : 18 ,
+"acción" : " Formación a los equipos de emergencias ",
+"idPadre" : 7
+},
+{
+"identificación" : 19 ,
+"acción" : " Formación de los trabajadores con riesgos específicos ",
+"idPadre" : 7
+},
+{
+"identificación" : 20 ,
+"acción" : " Documento de selección de EPI ",
+"idPadre" : 8
+},
+{
+"identificación" : 21 ,
+"acción" : " Documento de distribución y entrega de EPI ",
+"idPadre" : 8
+},
+{
+"identificación" : 22 ,
+"acción" : " Indicar si se realizan ",
+"idPadre" : 9
+},
+{
+"identificación" : 23 ,
+"acción" : [" Examen de salud Obligatorio ", " Examen de salud Inicial ", " Examen de salud Periódico ", " Examen de salud tras la ausencia prolongada por motivos de salud o por cambio en las condiciones de trabajo "],
+"idPadre" : 10
+},
+{
+"identificación" : 24 ,
+"acción" : " Archivo de los informes resultados examen salud (apto / no apto) ",
+"idPadre" : 10
+},
+{
+"identificación" : 25 ,
+"acción" : " ¿Se realiza exámenes de salud por medios propios? ",
+"idPadre" : 10
+},
+{
+"identificación" : 26 ,
+"acción" : " Determinación puestos de trabajo compatibles ",
+"idPadre" : 11
+},
+{
+"identificación" : 27 ,
+"acción" : " Existencia de listado ",
+"idPadre" : 11
+},
+{
+"identificación" : 28 ,
+"acción" : " Modelo de parte interno de investigación de accidentes ",
+"idPadre" : 12
+},
+{
+"identificación" : 29 ,
+"acción" : " Análisis estudio de accidentes y enfermedades profesionales ",
+"idPadre" : 12
+},
+{
+"identificación" : 30 ,
+"acción" : " Plan de Actuación ante Emergancia y/o Plan de Autoprotección ",
+"idPadre" : 13
+},
+{
+"identificación" : 31 ,
+"acción" : " Documento de coordinación de actividades empresariales ",
+"idPadre" : 14
+},
+{
+"identificación" : 32 ,
+"acción" : " Documentación y registro de la documentación ",
+"idPadre" : 15
+},
+{
+"identificación" : 33 ,
+"acción" : " Elaboración programación anual ",
+"idPadre" : 16
+},
+{
+"identificación" : 34 ,
+"acción" : " Elaboración de la memoria anual ",
+"idPadre" : 17
+},
+{
+"identificación" : 35 ,
+"acción" : " Archivo de memorias anteriores ",
+"idPadre" : 17
+}
+
+]
