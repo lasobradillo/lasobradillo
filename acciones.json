@@ -111,66 +111,81 @@
 },
 {
 "identificación" : 23 ,
-"acción" : [" Examen de salud Obligatorio ", " Examen de salud Inicial ", " Examen de salud Periódico ", " Examen de salud tras la ausencia prolongada por motivos de salud o por cambio en las condiciones de trabajo "],
+"acción" : " Examen de salud Obligatorio ",
 "idPadre" : 10
 },
 {
 "identificación" : 24 ,
-"acción" : " Archivo de los informes resultados examen salud (apto / no apto) ",
+"acción" : " Examen de salud Inicial ",
 "idPadre" : 10
 },
 {
 "identificación" : 25 ,
-"acción" : " ¿Se realiza exámenes de salud por medios propios? ",
+"acción" : " Examen de salud Periódico ",
 "idPadre" : 10
 },
 {
 "identificación" : 26 ,
+"acción" : " Examen de salud tras ausencia prolongada por motivos de salud o por cambio en las condiciones de trabajo ",
+"idPadre" : 10
+},
+{
+"identificación" : 27 ,
+"acción" : " Archivo de los informes resultados examen salud (apto / no apto) ",
+"idPadre" : 10
+},
+{
+"identificación" : 28 ,
+"acción" : " ¿Se realiza exámenes de salud por medios propios? ",
+"idPadre" : 10
+},
+{
+"identificación" : 29 ,
 "acción" : " Determinación puestos de trabajo compatibles ",
 "idPadre" : 11
 },
 {
-"identificación" : 27 ,
+"identificación" : 30 ,
 "acción" : " Existencia de listado ",
 "idPadre" : 11
 },
 {
-"identificación" : 28 ,
+"identificación" : 31 ,
 "acción" : " Modelo de parte interno de investigación de accidentes ",
 "idPadre" : 12
 },
 {
-"identificación" : 29 ,
+"identificación" : 32 ,
 "acción" : " Análisis estudio de accidentes y enfermedades profesionales ",
 "idPadre" : 12
 },
 {
-"identificación" : 30 ,
+"identificación" : 33 ,
 "acción" : " Plan de Actuación ante Emergancia y/o Plan de Autoprotección ",
 "idPadre" : 13
 },
 {
-"identificación" : 31 ,
+"identificación" : 34 ,
 "acción" : " Documento de coordinación de actividades empresariales ",
 "idPadre" : 14
 },
 {
-"identificación" : 32 ,
+"identificación" : 35 ,
 "acción" : " Documentación y registro de la documentación ",
 "idPadre" : 15
 },
 {
-"identificación" : 33 ,
+"identificación" : 36 ,
 "acción" : " Elaboración programación anual ",
 "idPadre" : 16
 },
 {
-"identificación" : 34 ,
+"identificación" : 37 ,
 "acción" : " Elaboración de la memoria anual ",
 "idPadre" : 17
 },
 {
-"identificación" : 35 ,
+"identificación" : 38 ,
 "acción" : " Archivo de memorias anteriores ",
 "idPadre" : 17
 }
